@@ -1,0 +1,8 @@
+node_modules
+package.json
+pnpm.lock.yaml
+.env
+.git
+.gitignore
+.prettierrc.json
+dist
